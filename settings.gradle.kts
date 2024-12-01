@@ -1,1 +1,1 @@
-rootProject.name = "user-interest-tagbit"
+rootProject.name = "settop-interest-tagbit"

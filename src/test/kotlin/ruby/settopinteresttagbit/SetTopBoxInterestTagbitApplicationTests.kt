@@ -1,10 +1,10 @@
-package ruby.userinteresttagbit
+package ruby.settopinteresttagbit
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest
 
 @SpringBootTest
-class UserInterestTagbitApplicationTests {
+class SetTopBoxInterestTagbitApplicationTests {
 
     @Test
     fun contextLoads() {

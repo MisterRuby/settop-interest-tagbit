@@ -1,11 +1,11 @@
-package ruby.userinteresttagbit
+package ruby.settopinteresttagbit
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class UserInterestTagbitApplication
+class SettopInterestTagbitApplication
 
 fun main(args: Array<String>) {
-    runApplication<UserInterestTagbitApplication>(*args)
+    runApplication<SettopInterestTagbitApplication>(*args)
 }
